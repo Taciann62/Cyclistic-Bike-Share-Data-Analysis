@@ -1,4 +1,4 @@
-# Cyclistic-Bike-Share-Data-Analysis
+# Cyclistic-Bike-Share-Data-Analysis-Project
 ---
 ## Table Of Content
 - [Introduction](#introduction)
